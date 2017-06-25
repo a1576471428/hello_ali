@@ -1,3 +1,4 @@
 .idea/
 mysite.db
 db.sqlite3
+*.pyc
